@@ -1,0 +1,33 @@
+body{
+	background: #b6b6b6;
+}
+
+.navbar-top{
+	background-color: #249054;
+}
+
+.navbar{
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-top a{
+	color: #fff !important;
+	border-top: 2px solid #249054;
+}
+
+.navbar-top li a:hover{
+	background-color: #e7e7e7 !important;
+	color: #249054 !important;
+	border-top: 2px solid #ff8304;
+}
+
+.navbar-top .active a{
+	background-color: #e7e7e7 !important;
+	color: #249054 !important;
+	border-top: 2px solid #ff8304;
+}
+
+.navbar-top .navbar-toggle .icon-bar{
+	background-color: #fff !important;
+}
