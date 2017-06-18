@@ -36,7 +36,7 @@
 		</nav>
 
 		<footer>
-			<p>Copyright 2017</p>
+			<p><b>Krhiz Project</b> Copyright 2017</p>
 		</footer>
 	</div>
 	
