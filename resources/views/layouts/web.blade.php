@@ -27,6 +27,7 @@
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      	<ul class="nav navbar-nav">
 			        <li class="active"><a href="#">Inicio <span class="sr-only">(current)</span></a></li>
+			        <li><a href="#">Acciones</a></li>
 			        <li><a href="#">Nosotros</a></li>	
 			        <li><a href="#">Contacto</a></li>	
 		        </ul>
