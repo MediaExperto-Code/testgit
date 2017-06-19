@@ -34,6 +34,14 @@
 	        </div>
 		  </div>
 		</nav>
+		<div id="logueo-form">
+			<form name="logueo">
+				<label for="nombre">Nombre</label>
+				<input name="nombre" type="text"></input><br/>
+				<label for="contrasena">Contrasena</label>
+				<input name="contrasena" type="password"></input>
+			</form>
+		</div>
 
 		<footer>
 			<p><b>Krhiz Project</b> Copyright 2017</p>

@@ -3,7 +3,7 @@ body{
 }
 
 .navbar-top{
-	background-color: #249054;
+	background-color: #3c5f84;
 }
 
 .navbar{
@@ -13,18 +13,18 @@ body{
 
 .navbar-top a{
 	color: #fff !important;
-	border-top: 2px solid #249054;
+	border-top: 2px solid #0bbbff;
 }
 
 .navbar-top li a:hover{
 	background-color: #e7e7e7 !important;
-	color: #249054 !important;
+	color: #fff !important;
 	border-top: 2px solid #ff8304;
 }
 
 .navbar-top .active a{
 	background-color: #e7e7e7 !important;
-	color: #249054 !important;
+	color: #0bbbff !important;
 	border-top: 2px solid #ff8304;
 }
 
