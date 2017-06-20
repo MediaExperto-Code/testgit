@@ -15,7 +15,7 @@
 		  <div class="container-fluid">
 		    <div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-			        <span class="sr-only">Menu-Desplegable</span>
+			        <span class="sr-only">Menu Desplegable</span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
@@ -34,6 +34,14 @@
 	        </div>
 		  </div>
 		</nav>
+		<div id="logueo-form">
+			<form name="logueo">
+				<label for="nombre">Nombre</label>
+				<input name="nombre" type="text"></input><br/>
+				<label for="contrasena">Contrasena</label>
+				<input name="contrasena" type="password"></input>
+			</form>
+		</div>
 
 		<footer>
 			<p><b>Krhiz Project</b> Copyright 2017</p>
