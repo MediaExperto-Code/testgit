@@ -19,15 +19,28 @@ body{
 .navbar-top li a:hover{
 	background-color: #e7e7e7 !important;
 	color: #fff !important;
-	border-top: 2px solid #ff8304;
+	border-top: 2px solid #3c5f84;
 }
 
 .navbar-top .active a{
 	background-color: #e7e7e7 !important;
-	color: #0bbbff !important;
-	border-top: 2px solid #ff8304;
+	color: #3c5f84 !important;
+	border-top: 2px solid #3c5f84;
 }
 
 .navbar-top .navbar-toggle .icon-bar{
 	background-color: #fff !important;
+}
+
+#div_contenedor{
+	height: 500px;
+}
+
+#logueo-form{
+	width: 280px;
+	background-color: #fff;
+	padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: right;
+    margin: 0 auto;
 }
